@@ -355,7 +355,7 @@ export default function Home() {
         <div>
           <h1 className={styles.title}>Burn the witch, my Inquisitor!</h1>
           <div className={styles.description}>
-            Its an NFT collection of a 'Demon Goose' designed by Adilet Toktybay 
+            Its an NFT collection of a Demon Goose designed by Adilet Toktybay 
             as a part of the Blockchain Technologies course assignment.
           </div>
           <div className={styles.description}>
